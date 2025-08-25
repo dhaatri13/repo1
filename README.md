@@ -1,2 +1,2 @@
 # repo1
-leaning devops with github
+Leaning DevOps with GitHub
